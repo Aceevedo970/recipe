@@ -1,0 +1,143 @@
+/* General */
+	body {
+
+		font-family: 'Ubuntu', sans-serif; 
+		line-height: 1.4;
+		color:  #212121;
+}
+
+
+/* Header */
+
+header {
+
+		padding: 1.5rem 5%;
+		background-color: #212121;
+}
+
+
+
+.logo h1 {
+
+		font-family: 'Sofadi One', cursive;
+		font-size: 1.5rem;
+		color: #D7CCC8;
+}
+
+.menu a {
+
+		color: #D7CCC8;
+		text-decoration: none;
+}
+
+
+
+/* Main Content */
+main {
+
+		padding: 3rem 5%;
+
+		overflow: hidden;
+}
+
+
+main h1 {
+
+		font-family: 'Sofadi One', cursive;
+		font-size: 3rem;	
+}
+
+
+@media screen and
+
+
+
+/* Column Left */
+
+@media screen and (min-width: 40em){
+
+.col-left {
+
+		width: 30%;
+		float: left;
+	}
+
+}
+
+
+/* Inner Column */
+
+
+
+
+/* Column Right */
+
+@media screen and (min-width: 40em){
+
+
+.col-right {
+
+	width: 65%;
+	float: right;
+
+
+	}
+
+}
+
+
+/* Ingredients List */
+.ingredients ul {
+
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+	}
+
+.ingredients li {
+
+		padding: .5rem 0;
+		border-top: 1px dotted #BDBDBD;
+
+}
+
+
+
+@media screen and (min-width: 40em){
+.ingredient {
+ width: 45%;
+	 	 float: left;
+ margin-right: 5%;
+}
+}
+
+.ingredients {
+
+		overflow: hidden;
+
+}
+/* Footer */
+footer {
+
+		padding: 1.5rem 5%;
+		background-color: #bdbdbd;
+
+}
+
+footer p {
+
+		margin: 0;
+		color: #757575;
+
+}
+
+footer a {
+
+		text-decoration: none;
+		font-family: 'Sofadi One', cursive;
+		color: #ffffff;
+		background-color: #757575;
+
+
+}
